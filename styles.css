@@ -2,4 +2,28 @@ body {
     margin: 0;
     padding: 0;
     background-color: hsl(30, 54%, 90%);
+    font-size: 16px;
+    text-align: center;
+    min-width: 375px;
+    max-width: 1440px;
+}
+
+
+
+main {
+    text-align: center;
+    width: 50%;
+    background-color: white;
+    display: block;
+    margin: auto;
+    border-radius: 10px;
+    margin-top: 50px;
+    padding-top: 20px;
+}
+
+
+.intro-content img {
+    width: 80%;
+    border-radius: 15px;
+    padding: 5px;
 }
