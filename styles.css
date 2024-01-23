@@ -47,10 +47,26 @@ main {
 }
 
 
-/* Ingredient Section */
+/* Ingredients Section */
+.ingredients h2 {
+    color: hsl(14, 45%, 36%);
+}
 
-
-
+.ingredients-list {
+    text-align: left;
+    text-decoration-color: hsl(14, 45%, 36%);
+}
 
 
 /* Instruction Section */
+
+.instruction h2 {
+    color: hsl(14, 45%, 36%);
+}
+
+
+/* Nutrition Section */
+
+.nutrition h2 {
+    color: hsl(14, 45%, 36%);
+}
