@@ -54,9 +54,16 @@ main {
 
 .ingredients-list {
     text-align: left;
-    text-decoration-color: hsl(14, 45%, 36%);
 }
 
+.border {
+    padding-top: 20px 20px;
+    border-bottom: 1px solid black;
+    opacity: 0.2;
+    width: 80%;
+    display: block;
+    margin: auto;
+}
 
 /* Instruction Section */
 
@@ -64,6 +71,10 @@ main {
     color: hsl(14, 45%, 36%);
 }
 
+.instructions-list {
+    text-align: left;
+    
+}
 
 /* Nutrition Section */
 
