@@ -3,11 +3,10 @@ body {
     padding: 0;
     background-color: hsl(30, 54%, 90%);
     font-size: 16px;
-    text-align: center;
+    text-align: left;
     min-width: 375px;
     max-width: 1440px;
 }
-
 
 
 main {
@@ -23,6 +22,13 @@ main {
 
 main h1 {
     letter-spacing: 2px;
+    text-align: left;
+    padding-left: 10%;
+}
+
+.intro-content p {
+    text-align: left;
+    padding-left: 10%;
 }
 
 /* Introduction Section */
@@ -37,6 +43,8 @@ main h1 {
     background-color: hsl(330, 100%, 98%);
     border-radius: 15px;
     margin: 20px;
+    text-align: left;
+
 }
 
 .prep h4 {
@@ -54,9 +62,12 @@ main h1 {
 
 
 /* Ingredients Section */
+
 .ingredients h2 {
     color: hsl(14, 45%, 36%);
     letter-spacing: 1px;
+    text-align: left;
+    padding-left: 10%;
 }
 
 .ingredients-list {
@@ -78,6 +89,8 @@ main h1 {
 .instruction h2 {
     color: hsl(14, 45%, 36%);
     letter-spacing: 1px;
+    text-align: left;
+    padding-left: 10%;
 }
 
 .instruction-list {
@@ -96,4 +109,29 @@ main h1 {
 .nutrition h2 {
     color: hsl(14, 45%, 36%);
     letter-spacing: 1px;
+    text-align: left;
+    padding-left: 10%;
+}
+
+.nutrition p {
+    text-align: left;
+    padding-left: 10%;
+}
+
+.nutrition-table {
+    display: flex;
+    justify-content: space-between;
+    padding-left: 10px;
+    padding-right: 10px;
+}
+
+.measurements {
+    font-weight: bold;
+    color: hsl(14, 45%, 36%);
+}
+
+/* Footer Section */
+
+footer {
+    padding: 20px;
 }
