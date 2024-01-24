@@ -6,7 +6,6 @@ This is a solution to the [Recipe page challenge on Frontend Mentor](https://www
 
 - [Frontend Mentor - Recipe page solution](#frontend-mentor---recipe-page-solution)
   - [Table of contents](#table-of-contents)
-  - [Overview](#overview)
     - [Links](#links)
     - [Built with](#built-with)
     - [What I learned](#what-i-learned)
@@ -14,8 +13,6 @@ This is a solution to the [Recipe page challenge on Frontend Mentor](https://www
     - [Useful resources](#useful-resources)
   - [Author](#author)
 
-
-## Overview
 
 
 ### Links
@@ -38,8 +35,6 @@ This is a solution to the [Recipe page challenge on Frontend Mentor](https://www
 I learnt how to center images using display block and margin which is easier. Making use of flexbox can really make a difference in your styling techniques. Making use of line height and letter spacing can really make your headings and paragraphs stand out and not look so busy.
 
 Working on your HTML first, while working top to bottom can helpl keep your tags in order. It helped me to also label everything, including the sections so i know where i am at in the process.
-
-
 
 
 ### Continued development
