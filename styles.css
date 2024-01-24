@@ -87,6 +87,10 @@ main h1 {
 
 }
 
+.bold {
+    font-weight: bold;
+}
+
 /* Nutrition Section */
 
 .nutrition h2 {
